@@ -1,0 +1,40 @@
+# Niagara BACnet Topology Builder - Public Repository
+# This repository only contains the compiled executable and documentation
+# Source code is in a separate private repository
+
+# Ignore any source code files that might be accidentally added
+*.py
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.env
+.venv/
+
+# Ignore build files
+build/
+build_exe.bat
+build_exe.ps1
+build_exe_small.bat
+*.spec
+
+# Ignore test files
+test/
+tests/
+*.test
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
