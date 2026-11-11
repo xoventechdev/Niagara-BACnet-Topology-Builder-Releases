@@ -21,6 +21,28 @@ Download the executable:
 - **Validation**: Validates input data and provides detailed error reports
 - **Multiple Export Options**: Export individual layers or combined BOG files
 
+## 📸 Screenshots
+
+### Application Overview
+![Niagara BACnet XML Topology Builder](Niagara%20BACnet%20XML%20Topology%20Builder.png)
+
+*The main XML Topology Builder interface showing the Excel import, topology selection, and XML preview pane.*
+
+### Workflow
+![Niagara BACnet Topology Builder Workflow](Niagara%20BACnet%20Topology%20Builder%20Workflow.png)
+
+*End-to-end workflow from Excel input to validated Niagara 4 BOG output.*
+
+### Three-Layer Topology
+![Niagara BACnet Three-Layer Topology Builder](Niagara%20BACnet%20Three-Layer%20Topology%20Builder.png)
+
+*Three-layer architecture (JACE + Zone + Main) topology generation.*
+
+### Validation Dashboard
+![Niagara BACnet Validation Dashboard](Niagara%20BACnet%20Validation%20Dashboard.png)
+
+*Validation dashboard providing detailed error reports and feedback on input data.*
+
 ## 📋 Requirements
 
 - **Operating System**: Windows 10 or 11
